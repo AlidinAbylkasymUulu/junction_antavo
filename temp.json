@@ -1,0 +1,686 @@
+{
+    "_id" : "5e58ccd22cf1905a748b463e",
+    "order" : 100,
+    "created_at" : "2020-02-28T08:18:26.352+0000",
+    "created_by" : 100000140,
+    "updated_at" : "2021-04-05T00:55:44.021+0000",
+    "updated_by" : 100000607,
+    "activated_at" : "2020-02-28T08:18:39.001+0000",
+    "name" : {
+        "en" : "Joined the Program "
+    },
+    "description" : {
+        "en" : "Welcome Gift for joining the loyalty program"
+    },
+    "category" : "",
+    "button_label" : [
+
+    ],
+    "type" : "custom",
+    "phrase_feed" : {
+        "en" : "Loyalty account created"
+    },
+    "url" : "",
+    "url_target" : "_self",
+    "points" : 50,
+    "featured" : false,
+    "customers" : 565921,
+    "completions" : 565922,
+    "earned" : 28433350,
+    "last_completed_at" : "2022-08-08T09:49:45.964+0000",
+    "criteria" : [
+        {
+            "action" : "dummy",
+            "threshold" : "1",
+            "phrase_action" : {
+                "en" : "  "
+            }
+        }
+    ],
+    "visibility" : "hidden",
+    "media" : "5e58ccd22cf1905a748b463c",
+    "webhook_data" : [
+
+    ],
+    "approval_required" : false,
+    "hide_restricted" : false,
+    "restricted_message" : [
+
+    ],
+    "tags" : [
+
+    ],
+    "status" : "active",
+    "__debug" : ""
+},
+{
+    "_id" : "5e81c0432aaf8181a700000b",
+    "order" : 100,
+    "created_at" : "2020-03-30T09:47:47.935+0000",
+    "created_by" : 100000140,
+    "updated_at" : "2021-04-12T02:55:20.233+0000",
+    "updated_by" : 100000607,
+    "activated_at" : "2020-03-30T09:47:53.302+0000",
+    "name" : {
+        "en" : "Complete your profile"
+    },
+    "description" : {
+        "en" : "Complete your profile"
+    },
+    "category" : "",
+    "button_label" : [
+
+    ],
+    "type" : "custom",
+    "phrase_feed" : [
+
+    ],
+    "url" : "https://antavo.com/career/",
+    "url_target" : "_top",
+    "points" : 50,
+    "featured" : false,
+    "customers" : 28579,
+    "completions" : 28579,
+    "earned" : 1513300,
+    "last_completed_at" : "2022-08-05T13:58:11.840+0000",
+    "criteria" : [
+        {
+            "action" : "profile_completed",
+            "threshold" : "1",
+            "phrase_action" : {
+                "en" : "Complete profile"
+            }
+        }
+    ],
+    "visibility" : "hidden",
+    "media" : "5eaa172298fb1f0900000001",
+    "webhook_data" : [
+
+    ],
+    "approval_required" : false,
+    "hide_restricted" : false,
+    "restricted_message" : [
+
+    ],
+    "tags" : [
+
+    ],
+    "status" : "active"
+},
+{
+    "_id" : "5ea68d90b377830a00000070",
+    "order" : 100,
+    "created_at" : "2020-04-27T07:45:20.724+0000",
+    "created_by" : 100000140,
+    "updated_at" : "2022-04-06T05:11:57.234+0000",
+    "updated_by" : 100001330,
+    "activated_at" : "2020-04-27T07:45:36.247+0000",
+    "name" : {
+        "en" : "Earn bonus +150 points on your next purchase!"
+    },
+    "description" : {
+        "en" : "Earn bonus +150 points on your next purchase!"
+    },
+    "category" : "",
+    "button_label" : [
+
+    ],
+    "type" : "custom",
+    "phrase_feed" : {
+        "en" : "Bonus for second purchase"
+    },
+    "url" : "https://antavo.com/career/",
+    "url_target" : "_top",
+    "points" : 150,
+    "featured" : false,
+    "customers" : 111790,
+    "completions" : 112095,
+    "earned" : 21028350,
+    "display_coming_soon" : false,
+    "last_completed_at" : "2022-08-08T09:43:55.091+0000",
+    "criteria" : [
+        {
+            "action" : "dummy",
+            "threshold" : "1",
+            "phrase_action" : {
+                "en" : " "
+            }
+        }
+    ],
+    "visibility" : "hidden",
+    "media" : "5ea9111cb0b4a83400000001",
+    "webhook_data" : [
+
+    ],
+    "approval_required" : false,
+    "segment" : [
+        "5ea68cf8f35c880e0000000e"
+    ],
+    "hide_restricted" : true,
+    "tags" : [
+
+    ],
+    "status" : "active"
+},
+{
+    "_id" : "5f8417903f4cfd120c8b458f",
+    "order" : 100,
+    "created_at" : "2020-10-12T08:45:04.851+0000",
+    "created_by" : 24303,
+    "updated_at" : "2021-05-02T23:13:48.202+0000",
+    "updated_by" : 100000607,
+    "activated_at" : "2020-10-12T08:49:35.248+0000",
+    "name" : {
+        "en" : "Complete your referral with a purchase "
+    },
+    "description" : {
+        "en" : "Complete your referral with a purchase  - Referee Points"
+    },
+    "category" : "",
+    "button_label" : [
+
+    ],
+    "type" : "custom",
+    "phrase_feed" : {
+        "en" : "Complete your referral with a purchase - Referee Points"
+    },
+    "url" : "https://antavo.com/career/",
+    "url_target" : "_top",
+    "points" : 100,
+    "featured" : false,
+    "customers" : 12316,
+    "completions" : 13285,
+    "earned" : 1336800,
+    "last_completed_at" : "2022-08-06T00:55:24.929+0000",
+    "criteria" : [
+        {
+            "action" : "dummy",
+            "threshold" : "1",
+            "phrase_action" : {
+                "en" : " "
+            }
+        }
+    ],
+    "visibility" : "hidden",
+    "media" : "5ea9111cb0b4a83400000001",
+    "webhook_data" : [
+
+    ],
+    "approval_required" : false,
+    "segment" : [
+        "5f84199e414cfd520f8b4568"
+    ],
+    "hide_restricted" : true,
+    "tags" : [
+
+    ],
+    "status" : "active"
+},
+{
+    "_id" : "6242aa0bdebd8b2ee87c3631",
+    "order" : 100,
+    "created_at" : "2022-03-29T06:41:15.727+0000",
+    "created_by" : 100001233,
+    "updated_at" : "2022-05-06T09:50:42.510+0000",
+    "updated_by" : 100001330,
+    "activated_at" : "2022-03-29T06:41:40.520+0000",
+    "name" : {
+        "en" : "Redeem a Reward"
+    },
+    "description" : [
+
+    ],
+    "button_label" : [
+
+    ],
+    "type" : "custom",
+    "phrase_feed" : {
+        "en" : "Redeemed a Reward during Antavo+ Challenge"
+    },
+    "url_target" : "_self",
+    "points" : 0,
+    "featured" : false,
+    "customers" : 85,
+    "completions" : 85,
+    "earned" : 64,
+    "display_coming_soon" : false,
+    "last_completed_at" : "2022-05-06T09:46:18.353+0000",
+    "criteria" : [
+        {
+            "action" : "reward",
+            "threshold" : "1",
+            "min_events" : 1,
+            "type" : "counting",
+            "phrase_action" : {
+                "en" : "Redeemed at least one Reward during Antavo+ Challenge period"
+            },
+            "filters" : [
+                {
+                    "attribute" : "reward",
+                    "value" : "Test reward 1",
+                    "operator" : "in_segment"
+                },
+                {
+                    "attribute" : "reward",
+                    "value" : "welcome",
+                    "operator" : "not_contain"
+                },
+                {
+                    "attribute" : "coupon",
+                    "value" : "DRINKUP",
+                    "operator" : "not_equal"
+                },
+                {
+                    "attribute" : "coupon",
+                    "value" : "GOTYOUCOVERED",
+                    "operator" : "not_equal"
+                },
+                {
+                    "attribute" : "reward",
+                    "value" : "Birthday Perks",
+                    "operator" : "not_equal"
+                }
+            ]
+        }
+    ],
+    "visibility" : "hidden",
+    "approval_required" : false,
+    "hide_restricted" : false,
+    "restricted_message" : [
+
+    ],
+    "hidden" : true,
+    "tags" : [
+
+    ],
+    "resetable" : "0",
+    "status" : "inactive",
+    "starts_at" : "2022-05-03T15:50:00.000+0000",
+    "ends_at" : "2022-05-07T15:42:00.000+0000"
+},
+{
+    "_id" : "6242aa6a2905fe804038a9bc",
+    "order" : 100,
+    "created_at" : "2022-03-29T06:42:50.576+0000",
+    "created_by" : 100001233,
+    "updated_at" : "2022-05-06T08:43:23.260+0000",
+    "updated_by" : 100001233,
+    "activated_at" : "2022-03-29T06:42:56.737+0000",
+    "name" : {
+        "en" : "Upgrade to Silver Loyalty Tier"
+    },
+    "description" : [
+
+    ],
+    "button_label" : [
+
+    ],
+    "type" : "custom",
+    "phrase_feed" : {
+        "en" : "Upgraded to Silver Loyalty Tier during Antavo+ Challenge"
+    },
+    "url_target" : "_self",
+    "points" : 0,
+    "featured" : false,
+    "customers" : 1404,
+    "completions" : 1404,
+    "earned" : 55,
+    "display_coming_soon" : false,
+    "last_completed_at" : "2022-05-29T15:56:19.074+0000",
+    "criteria" : [
+        {
+            "action" : "level_up",
+            "threshold" : "1",
+            "min_events" : 1,
+            "type" : "counting",
+            "phrase_action" : {
+                "en" : "Upgraded to Silver Loyalty Tier during Antavo+ Challenge"
+            },
+            "filters" : [
+                {
+                    "attribute" : "level",
+                    "value" : "silver",
+                    "operator" : "equal"
+                }
+            ]
+        }
+    ],
+    "visibility" : "hidden",
+    "approval_required" : false,
+    "hide_restricted" : false,
+    "restricted_message" : [
+
+    ],
+    "hidden" : true,
+    "tags" : [
+
+    ],
+    "resetable" : "0",
+    "status" : "active",
+    "starts_at" : "2022-05-05T15:43:00.000+0000",
+    "ends_at" : "2022-05-29T15:59:00.000+0000"
+},
+{
+    "_id" : "6242d76edebd8b77890fb4e2",
+    "order" : 100,
+    "created_at" : "2022-03-29T09:54:54.406+0000",
+    "created_by" : 100001233,
+    "updated_at" : "2022-05-06T08:43:00.462+0000",
+    "updated_by" : 100001233,
+    "activated_at" : "2022-03-30T07:48:04.008+0000",
+    "name" : {
+        "en" : "Upgrade to Gold Loyalty Tier"
+    },
+    "description" : [
+
+    ],
+    "button_label" : [
+
+    ],
+    "type" : "custom",
+    "phrase_feed" : {
+        "en" : "Upgraded to Gold Loyalty Tier during Antavo+ Challenge"
+    },
+    "url_target" : "_self",
+    "points" : 0,
+    "featured" : false,
+    "customers" : 603,
+    "completions" : 603,
+    "earned" : 2,
+    "display_coming_soon" : false,
+    "last_completed_at" : "2022-05-29T15:20:20.697+0000",
+    "criteria" : [
+        {
+            "action" : "level_up",
+            "threshold" : "1",
+            "min_events" : 1,
+            "type" : "counting",
+            "phrase_action" : {
+                "en" : "Upgraded to Gold Loyalty Tier during Antavo+ Challenge"
+            },
+            "filters" : [
+                {
+                    "attribute" : "level",
+                    "value" : "gold",
+                    "operator" : "equal"
+                }
+            ]
+        }
+    ],
+    "visibility" : "hidden",
+    "approval_required" : false,
+    "hide_restricted" : false,
+    "restricted_message" : [
+
+    ],
+    "hidden" : true,
+    "tags" : [
+
+    ],
+    "resetable" : "0",
+    "status" : "active",
+    "starts_at" : "2022-05-05T15:42:00.000+0000",
+    "ends_at" : "2022-05-29T15:59:00.000+0000"
+},
+{
+    "_id" : "624409683f7d41816127e659",
+    "order" : 100,
+    "created_at" : "2022-03-30T07:40:24.006+0000",
+    "created_by" : 100001233,
+    "updated_at" : "2022-05-06T08:41:04.839+0000",
+    "updated_by" : 100001233,
+    "activated_at" : "2022-03-30T07:47:51.714+0000",
+    "name" : {
+        "en" : "Bought a Staples Piece"
+    },
+    "description" : [
+
+    ],
+    "button_label" : [
+
+    ],
+    "type" : "custom",
+    "phrase_feed" : {
+        "en" : "Bought a Staples Piece during Antavo+ Challenge"
+    },
+    "url_target" : "_self",
+    "points" : 0,
+    "featured" : false,
+    "customers" : 2911,
+    "completions" : 2911,
+    "earned" : 1,
+    "display_coming_soon" : false,
+    "last_completed_at" : "2022-05-29T15:58:13.770+0000",
+    "criteria" : [
+        {
+            "action" : "checkout_item",
+            "threshold" : "1",
+            "min_events" : 1,
+            "type" : "counting",
+            "phrase_action" : {
+                "en" : "Bought a Staples Piece during Antavo+ Challenge"
+            },
+            "filters" : [
+                {
+                    "attribute" : "product_category",
+                    "value" : "The Staples",
+                    "operator" : "contain"
+                }
+            ]
+        }
+    ],
+    "visibility" : "hidden",
+    "approval_required" : false,
+    "hide_restricted" : false,
+    "restricted_message" : [
+
+    ],
+    "hidden" : true,
+    "tags" : [
+
+    ],
+    "resetable" : "0",
+    "status" : "active",
+    "starts_at" : "2022-05-05T15:40:00.000+0000",
+    "ends_at" : "2022-05-29T15:59:00.000+0000"
+},
+{
+    "_id" : "624409cc3f7d41816127e65f",
+    "order" : 100,
+    "created_at" : "2022-03-30T07:42:04.211+0000",
+    "created_by" : 100001233,
+    "updated_at" : "2022-05-06T08:43:49.852+0000",
+    "updated_by" : 100001233,
+    "activated_at" : "2022-03-30T07:49:00.939+0000",
+    "name" : {
+        "en" : "Made 2 Friend Referrals"
+    },
+    "description" : [
+
+    ],
+    "button_label" : [
+
+    ],
+    "type" : "custom",
+    "phrase_feed" : {
+        "en" : "Made 2 Friend Referrals during Antavo+ Challenge"
+    },
+    "url_target" : "_self",
+    "points" : 0,
+    "featured" : false,
+    "customers" : 6,
+    "completions" : 6,
+    "earned" : 0,
+    "display_coming_soon" : false,
+    "criteria" : [
+        {
+            "action" : "referral_bonus",
+            "threshold" : "2",
+            "period" : "1 month",
+            "min_events" : 1,
+            "type" : "counting",
+            "phrase_action" : {
+                "en" : "Made 2 Friend Referrals during Antavo+ Challenge"
+            }
+        }
+    ],
+    "visibility" : "hidden",
+    "approval_required" : false,
+    "hide_restricted" : false,
+    "restricted_message" : [
+
+    ],
+    "hidden" : true,
+    "tags" : [
+
+    ],
+    "resetable" : "0",
+    "status" : "active",
+    "starts_at" : "2022-05-05T15:43:00.000+0000",
+    "ends_at" : "2022-05-29T15:59:00.000+0000",
+    "last_completed_at" : "2022-05-27T03:19:34.142+0000"
+},
+{
+    "_id" : "62440ac160ace45d990760bd",
+    "order" : 100,
+    "created_at" : "2022-03-30T07:46:09.231+0000",
+    "created_by" : 100001233,
+    "updated_at" : "2022-05-05T02:03:21.305+0000",
+    "updated_by" : 100001233,
+    "activated_at" : "2022-03-30T07:48:42.901+0000",
+    "name" : {
+        "en" : "Made 3 Transactions"
+    },
+    "description" : [
+
+    ],
+    "button_label" : [
+
+    ],
+    "type" : "custom",
+    "phrase_feed" : {
+        "en" : "Made 3 Transactions during Antavo+ Challenge"
+    },
+    "url_target" : "_self",
+    "points" : 0,
+    "featured" : false,
+    "customers" : 1,
+    "completions" : 1,
+    "earned" : 1,
+    "display_coming_soon" : false,
+    "last_completed_at" : "2022-03-30T10:30:14.508+0000",
+    "criteria" : [
+        {
+            "action" : "checkout",
+            "threshold" : "3",
+            "period" : "1 month",
+            "min_events" : 1,
+            "type" : "counting",
+            "phrase_action" : {
+                "en" : "Made 2 Transactions during Antavo+ Challenge"
+            }
+        }
+    ],
+    "visibility" : "hidden",
+    "approval_required" : false,
+    "segment" : [
+        "6244086435c824ff505a54a4"
+    ],
+    "hide_restricted" : false,
+    "restricted_message" : [
+
+    ],
+    "hidden" : true,
+    "tags" : [
+
+    ],
+    "resetable" : "0",
+    "status" : "inactive",
+    "starts_at" : "2022-03-01T15:45:00.000+0000",
+    "ends_at" : "2022-03-31T22:59:00.000+0000"
+},
+{
+    "_id" : "62440b123d9f9884723b8aa5",
+    "order" : 100,
+
+
+    
+    "created_at" : "2022-03-30T07:47:30.942+0000",
+    "created_by" : 100001233,
+    "updated_at" : "2022-05-06T08:39:57.160+0000",
+    "updated_by" : 100001233,
+    "activated_at" : "2022-03-30T07:47:39.450+0000",
+    "name" : {
+        "en" : "Make a Retail Purchase"
+    },
+    "description" : [
+
+    ],
+    "button_label" : [
+
+    ],
+    "type" : "custom",
+    "phrase_feed" : {
+        "en" : "Make a Retail Purchase during Antavo+ Challenge"
+    },
+    "url_target" : "_self",
+    "points" : 0,
+    "featured" : false,
+    "customers" : 4402,
+    "completions" : 4402,
+    "earned" : 0,
+    "display_coming_soon" : false,
+    "criteria" : [
+        {
+            "action" : "checkout",
+            "threshold" : "1",
+            "period" : "1 month",
+            "min_events" : 1,
+            "type" : "counting",
+            "phrase_action" : {
+                "en" : "Make a Retail Purchase during Antavo+ Challenge"
+            },
+            "filters" : [
+                {
+                    "attribute" : "store_name",
+                    "operator" : "exists"
+                },
+                {
+                    "attribute" : "store_name",
+                    "value" : "Vivocity",
+                    "operator" : "not_equal"
+                },
+                {
+                    "attribute" : "store_name",
+                    "value" : "Funan",
+                    "operator" : "not_equal"
+                },
+                {
+                    "attribute" : "store_name",
+                    "value" : "JEM",
+                    "operator" : "not_equal"
+                },
+                {
+                    "attribute" : "store_name",
+                    "value" : "ION",
+                    "operator" : "not_equal"
+                }
+            ]
+        }
+    ],
+    "visibility" : "hidden",
+    "approval_required" : false,
+    "hide_restricted" : false,
+    "restricted_message" : [
+
+    ],
+    "hidden" : true,
+    "tags" : [
+
+    ],
+    "resetable" : "0",
+    "status" : "active",
+    "starts_at" : "2022-05-05T15:39:00.000+0000",
+    "ends_at" : "2022-05-29T15:59:00.000+0000",
+    "last_completed_at" : "2022-05-29T13:53:37.782+0000"
+}
